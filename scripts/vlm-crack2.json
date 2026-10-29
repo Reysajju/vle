@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "No. The image shows the words \"The Generational\" and \"Curse\" in large gold serif text on a dark background, but the word \"Breaker\" is not visible in the provided image. The second line only shows the word \"Curse,\" and there is no thin glowing gold crack or kintsugi line running through any of the visible text.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1793239847,
+  "id": "202610291010445a995556672f4592",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "202610291010445a995556672f4592",
+  "usage": {
+    "completion_tokens": 75,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 1160,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1235
+  }
+}

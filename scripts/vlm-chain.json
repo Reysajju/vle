@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1) Yes, the chain links are separated/scattered with the middle link broken apart, and there is a bright glow at the break point.\n2) Yes, a warm sunrise/orange glow is visible at the bottom of the section.\n3) No, a 3D book is not visible on the left; only a 2D \"Back Cover\" placeholder card is present.\n4) No, there are no obvious rendering glitches.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1793239568,
+  "id": "20261029100605e123be475d324b26",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "20261029100605e123be475d324b26",
+  "usage": {
+    "completion_tokens": 90,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 3461,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 3551
+  }
+}
